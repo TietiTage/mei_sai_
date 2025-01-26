@@ -738,7 +738,7 @@ Year,NOC,Gold,Silver,Bronze,Total,Rank
 1996,Germany,20,18,27,65,2
 1996,Great Britain,1,8,6,15,19
 1996,Greece,4,4,0,8,24
-1996,Hong Kong,1,0,0,1,61
+1996,"Hong Kong, China",1,0,0,1,61
 1996,Hungary,7,4,10,21,12
 1996,India,0,0,1,1,70
 1996,Indonesia,1,1,2,4,39
@@ -897,7 +897,7 @@ Year,NOC,Gold,Silver,Bronze,Total,Rank
 2004,Germany,13,16,20,49,5
 2004,Great Britain,9,9,12,30,10
 2004,Greece,6,6,4,16,17
-2004,Hong Kong,0,1,0,1,67
+2004,"Hong Kong, China",0,1,0,1,67
 2004,Hungary,8,6,3,17,16
 2004,India,0,1,0,1,68
 2004,Indonesia,1,1,2,4,47
@@ -1063,7 +1063,7 @@ Year,NOC,Gold,Silver,Bronze,Total,Rank
 2012,Greece,0,0,2,2,65
 2012,Grenada,1,0,0,1,70
 2012,Guatemala,0,1,0,1,76
-2012,Hong Kong,0,0,1,1,81
+2012,"Hong Kong, China",0,0,1,1,81
 2012,Hungary,8,4,6,18,14
 2012,India,0,2,4,6,38
 2012,Indonesia,0,2,1,3,54
@@ -1235,7 +1235,7 @@ Year,NOC,Gold,Silver,Bronze,Total,Rank
 2020,Great Britain,22,20,22,64,4
 2020,Greece,2,1,1,4,47
 2020,Grenada,0,0,1,1,89
-2020,Hong Kong,1,2,3,6,40
+2020,"Hong Kong, China",1,2,3,6,40
 2020,Hungary,6,7,7,20,14
 2020,India,1,2,4,7,36
 2020,Indonesia,1,1,3,5,44
@@ -1328,7 +1328,7 @@ Year,NOC,Gold,Silver,Bronze,Total,Rank
 2024,Greece,1,1,6,8,28
 2024,Grenada,0,0,2,2,74
 2024,Guatemala,1,0,1,2,70
-2024,Hong Kong,2,0,2,4,50
+2024,"Hong Kong, China",2,0,2,4,50
 2024,Hungary,6,7,6,19,14
 2024,India,0,1,5,6,43
 2024,Indonesia,2,0,1,3,60
